@@ -1,0 +1,57 @@
+body { background : linear-gradient(135deg, #7583b8 0%, #5b3187 100%); 
+         color : #fff; 
+         font-family : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+         line-height : 1.6; 
+         margin : 20px; 
+         padding : 0;
+}
+#chisono h2 { text-align: right;
+              font-size: 32px;
+              margin-bottom: 10px;
+              margin-top: 40px;
+}
+#chisono p { text-align: end;
+             font-size: 15px;
+             margin-bottom: 10px;
+             margin-top: 10px;
+}
+#chisono img { position: left;
+               margin-left: auto;
+               margin-right: auto;
+               width: 220px;
+               height: auto;
+               margin-bottom: 10px;
+               margin-top: 10px;
+}
+#passioni h2 { text-align: center;
+              font-size: 32px;
+              margin-bottom: 10px;
+              margin-top: 40px;
+}
+#passioni img { position: center;
+                float: center;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 400px;
+                height: auto;
+                margin-bottom: 10px;
+                margin-top: 40px;
+}
+#hobby h2 { text-align: left;
+            font-size: 32px;
+            margin-bottom: 10px;
+            margin-top: 40px;
+}
+#hobby img { text-align: right;
+             margin-left: 50px;
+             margin-right: auto;
+             width: 390px;
+             height: auto;
+             margin-bottom: 10px;
+             margin-top: 40px;
+}
+
+
+        
+    
